@@ -1,7 +1,7 @@
 version: 0.2
 env:
   secrets-manager:
-    SPECTRAL_DSN: arn:aws:secretsmanager:us-east-1:308107017754:secret:spectralsecrets-OJd0QO
+    SPECTRAL_DSN: arn:aws:secretsmanager:us-east-1:308107017754:secret:spectralsecretscodebuild-QyAvvJ
 phases:
   build:
     commands:
